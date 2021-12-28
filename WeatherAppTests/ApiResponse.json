@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -166.2422,
+        "lat": 70.1356
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": -30.29,
+        "feels_like": -37.29,
+        "temp_min": -30.29,
+        "temp_max": -30.29,
+        "pressure": 1022,
+        "humidity": 95,
+        "sea_level": 1022,
+        "grnd_level": 1022
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.8,
+        "deg": 53,
+        "gust": 14.68
+    },
+    "clouds": {
+        "all": 29
+    },
+    "dt": 1640720072,
+    "sys": {
+        "country": "US",
+        "sunrise": 0,
+        "sunset": 0
+    },
+    "timezone": -39600,
+    "id": 5871778,
+    "name": "Point Lay",
+    "cod": 200
+}

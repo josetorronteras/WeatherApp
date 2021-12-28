@@ -29,4 +29,4 @@ Unit tests have been included.
 Video of the application is attached.
 
 ### Video
-<video src='imgs/video.mp4' width=180/>
+<video src='https://github.com/xexuew/WeatherApp/blob/main/imgs/video.mp4' width=180/>
